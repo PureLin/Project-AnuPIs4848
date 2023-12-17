@@ -20,9 +20,9 @@ I just bought a Neumann MT48, It's build with high quality, but the software is 
 * USB only support UAC in IOS/MAC, need install driver in Windows, and not support Linux/Android at all.
 * You can't add any additional effects since it's firmware is closed source.
 
-I like AoIP, it can make you audio interface a lot more flexible. But at current, any AoIP standard, even AES67 is claimed to be a open standard, but it's not. You need to pay a lot of money to get the standard document.
+I like AoIP, it can make you audio interface a lot more flexible. But at current, any AoIP standard, even AES67, is claimed to be a open standard but need to pay (a lot) to get the standard document.
 
-But hey, I just got a Neumann MT48, it's a AoIP audio interface, to capture the network packets and reverse engineer is not a hard work. So I decided to build a DIY audio interface based on the reverse engineering on RAVENNA protocol.
+But hey, I just got a Neumann MT48, it's a Ravenna audio interface. Capture the network packets and reverse engineer is not a hard work. So I decided to build a DIY audio interface based on the reverse engineering on RAVENNA protocol.
 
 So This is it. I will build a DIY audio interface based on RAVENNA protocol, and I will try to make it as good as possible.
 
